@@ -1,0 +1,15 @@
+const ActionTypes = {
+  IS_LOGIN: 'IS_LOGIN',
+  SHOW_ALERT: 'SHOW_ALERT',
+  HIDE_ALERT: 'HIDE_ALERT',
+  SHOW_LOADING: 'SHOW_LOADING',
+  HIDE_LOADING: 'HIDE_LOADING',
+  UPDATE_THEME: 'UPDATE_THEME',
+
+  //user 
+  USER_DATA: 'USER_DATA',
+  LOGOUT: 'LOGOUT',
+  
+};
+
+export default ActionTypes;
